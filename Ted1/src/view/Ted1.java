@@ -5,14 +5,8 @@
  */
 package view;
 
-import Atividades.Exercicio1;
-import Atividades.Exercicio2;
-import Atividades.Exercicio3;
-import Atividades.Exercicio4;
-import Atividades.Exercicio5;
-import Atividades.Exercicio6;
-import Atividades.Exercicio7;
-import Atividades.Exercicio8;
+import Atividades.*;
+
 
 /**
  *
